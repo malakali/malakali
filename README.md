@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Software Developer
 - 🌱 I’m currently learning a lot of things
-- 👯 I’m looking to collaborate on on JS/TS or react/react-native projects
+- 👯 I’m looking to collaborate on JS/TS or react/react-native projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about on Twitter @miss_meme111
 - 📫 How to reach me:  miss.meme910@yahoo.com 
