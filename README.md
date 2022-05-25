@@ -1,6 +1,6 @@
 ### Hi there 👋 السلام عليكم
 
-- 🔭 I’m currently working on Jeddah University
+- 🔭 I’m currently working as Software Developer
 - 🌱 I’m currently learning a lot of things
 - 👯 I’m looking to collaborate on on JS/TS or react/react-native projects
 - 🤔 I’m looking for help with ...
