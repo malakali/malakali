@@ -1,6 +1,6 @@
 ### Hi there 👋 السلام عليكم
 
-- 🔭 I’m currently working as Software Developer
+- 🔭 I’m currently working as Senior Software Developer
 - 🌱 I’m currently learning a lot of things
 - 👯 I’m looking to collaborate on JS/TS or react/react-native projects
 - 💬 Ask me about on Twitter @miss_meme111
