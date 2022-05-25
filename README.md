@@ -1,10 +1,5 @@
 ### Hi there 👋 السلام عليكم
 
- 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Jeddah University
 - 🌱 I’m currently learning a lot of things
 - 👯 I’m looking to collaborate on on JS/TS or react/react-native projects
